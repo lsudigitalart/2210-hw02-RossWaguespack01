@@ -1,0 +1,9 @@
+function setup() {
+    createCanvas(400, 269);
+    background(100);
+    eclipse(500, 100, 100, 100)
+}
+
+function draw() {
+
+}
